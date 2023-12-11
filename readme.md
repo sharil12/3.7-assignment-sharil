@@ -1,4 +1,4 @@
-## Assignment 3.7: Cloud Native Application - Serverless II
+## Assignment 3.7: Cloud Native Application - Serverless II SQS
 
 
 **Objective:**
